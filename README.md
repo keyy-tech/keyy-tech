@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and Problem Solving in Tech
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Full Stack Development
-- 📫 How to reach me 0242740475,emmanuelyayrakotoka@gmail.com,ce-eykotoka5523@gmail.com
+- 📫 How to reach me 0242740475, emmanuelyayrakotoka@gmail.com, ce-eykotoka5523@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Video Games(FiFa), Coding , Watching Movies
 
